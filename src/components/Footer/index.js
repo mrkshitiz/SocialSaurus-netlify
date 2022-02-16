@@ -58,7 +58,7 @@ const Footer = () => {
         {/* <a href="mailto:kshitiz.agarwal45@gmail.com?subject=Email From socialsaurus.in"> */}
           <img src={Gmail} alt="Gmail" />
         </a>
-        <a href="https://amzn.to/3539aqz"  target="_blank">
+        <a href="https://amzn.to/3uU0FJq"  target="_blank">
           <img src={Instagram} alt="Instagram" />
         </a>
 
